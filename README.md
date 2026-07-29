@@ -214,4 +214,4 @@ Platforma foloseste:
 
 ## Autor
 
-Platforma WebToonCNU a fost dezvoltata pentru concursul de benzi desenate si webtoonuri al comunitatii Colegiului National „Unirea”.
+Platforma WebToonCNU a fost dezvoltata de Stănciulescu Bogdan pentru concursul de benzi desenate si webtoonuri al comunitatii Colegiului National „Unirea”.
